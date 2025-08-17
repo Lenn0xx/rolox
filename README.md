@@ -9,6 +9,6 @@ Built for quick communication without needing complex forms or logins.
 - Lightweight and easy to deploy  
 
 ## Usage  
-1. Open the site  
+1. Open the site  (https://lenn0xx.github.io/rolox)
 2. Enter your message  
 3. Click **Send** — the text will be delivered to my email instantly 🚀  
